@@ -1,0 +1,3 @@
+-- Intentionally left blank.
+-- We use Hibernate DDL (`spring.jpa.hibernate.ddl-auto=update`) and service-based seeders.
+-- Do not add destructive DROP statements here; this file may be executed if sql.init.mode changes.

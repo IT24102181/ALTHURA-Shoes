@@ -1,0 +1,25 @@
+# Root ignore
+.idea/
+.vscode/
+*.log
+.DS_Store
+
+# Backend
+Backend/target/
+Backend/.mvn/
+Backend/mvnw
+Backend/mvnw.cmd
+Backend/*.jar
+Backend/*.war
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env*
+
+# IntelliJ/Eclipse/VSCode
+*.iml
+.settings/
+.classpath
+.project
+.factorypath
